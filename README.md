@@ -1,7 +1,7 @@
 ### Olá me chamo Jonathan, Seja bem vindo ao meu Github👋
 ### faça um tour pelos meus projetos.
 <div>
-    <img height="180em" src="yoda.gif" align="middle"/>
+    <img align="center" height="180em" src="yoda.gif" />
  </div>
 <!--
 **JonathanSRS/JonathanSRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
