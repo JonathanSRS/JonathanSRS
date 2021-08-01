@@ -1,5 +1,5 @@
 ### Olá me chamo Jonathan, Seja bem vindo ao meu Github👋
-### Sinta-se à vontade e faça um tour pelos meus projetos.
+### faça um tour pelos meus projetos.
 <div>
     <img height="180em" src="yoda.gif" align="middle"/>
  </div>
