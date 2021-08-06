@@ -11,11 +11,11 @@
  </div>
  <div class='row' align="center">
     <!--<img height="32px" src="https://cdn.svgporn.com/logos/c.svg">-->
-    <img height="32px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-    <img height="32px" src="https://cdn.svgporn.com/logos/mysql.svg">
-    <img height="32px" src="https://cdn.svgporn.com/logos/postgresql.svg">
-    <img height="32px" src="https://cdn.svgporn.com/logos/heroku.svg">
-    <img height="32px" src="https://cdn.svgporn.com/logos/java.svg">
+    <img height="32px" src="https://cdn.svgporn.com/logos/nodejs.svg"> &ensp;
+    <img height="32px" src="https://cdn.svgporn.com/logos/mysql.svg"> &ensp;
+    <img height="32px" src="https://cdn.svgporn.com/logos/postgresql.svg"> &ensp;
+    <img height="32px" src="https://cdn.svgporn.com/logos/heroku.svg"> &ensp;
+    <img height="32px" src="https://cdn.svgporn.com/logos/java.svg"> &ensp;
     <img height="32px" src="https://cdn.svgporn.com/logos/spring.svg">
 </div>
 <br>
@@ -36,14 +36,15 @@
 
 <div align="center">
     
-## 🚀 Ferramentas
+## 🛠️ Ferramentas
 
 </div>
-<div class='row' align="center"> 
-    <img height="32px" src="https://cdn.svgporn.com/logos/eclipse.svg">
-    <img height="32px" src="https://cdn.svgporn.com/logos/postman.svg">
-    <img height="32px" src="https://cdn.svgporn.com/logos/git.svg">
-    <img height="32px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+<div  class='row' align="center"> 
+    <img height="32px" src="https://cdn.svgporn.com/logos/eclipse.svg"> &ensp;
+    <img height="32px" src="https://cdn.svgporn.com/logos/postman.svg"> &ensp;
+    <img height="32px" src="https://cdn.svgporn.com/logos/git.svg"> &ensp;
+    <img height="32px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> &ensp;
+    <img height="32px" src="https://cdn.svgporn.com/logos/terminal.svg">
 </div>
 <!--
 **JonathanSRS/JonathanSRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
