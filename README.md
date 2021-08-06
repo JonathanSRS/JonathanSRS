@@ -1,3 +1,4 @@
+
 ### Olá me chamo Jonathan, Seja bem vindo ao meu Github👋
 ### faça um tour pelos meus projetos.
 ## 
@@ -5,7 +6,7 @@
     <img height="180em" src="yoda.gif" />
  </div>
  <div align="center">
-    
+   
  ## 🖥️ Back-End
     
  </div>
@@ -44,8 +45,17 @@
     <img height="32px" src="https://cdn.svgporn.com/logos/postman.svg"> &ensp;
     <img height="32px" src="https://cdn.svgporn.com/logos/git.svg"> &ensp;
     <img height="32px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> &ensp;
-    <img height="32px" src="https://cdn.svgporn.com/logos/terminal.svg">
+    <img height="32px" src="https://cdn.svgporn.com/logos/terminal.svg"> &ensp;
+     <img height="32px" src="https://cdn.svgporn.com/logos/bash.svg">
+    <img height="32px" src="https://cdn.svgporn.com/logos/excel.svg"> 
+<code><img height="20" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/excel.jpg"></code>  
+
 </div>
+
+ [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+<!--<div align="center">
+ <img  height="300px" width="700px" src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code'/>
+</div>-->
 <!--
 **JonathanSRS/JonathanSRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
