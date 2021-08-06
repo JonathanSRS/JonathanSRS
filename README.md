@@ -46,9 +46,8 @@
     <img height="32px" src="https://cdn.svgporn.com/logos/git.svg"> &ensp;
     <img height="32px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> &ensp;
     <img height="32px" src="https://cdn.svgporn.com/logos/terminal.svg"> &ensp;
-     <img height="32px" src="https://cdn.svgporn.com/logos/bash.svg">
-    <img height="32px" src="https://cdn.svgporn.com/logos/excel.svg"> 
-<code><img height="20" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/excel.jpg"></code>  
+    <img height="32px" src="https://cdn.svgporn.com/logos/bash.svg"> &ensp;
+    <code><img height="32px" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/excel.jpg"></code>  
 
 </div>
 
