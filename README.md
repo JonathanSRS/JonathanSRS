@@ -48,7 +48,7 @@
     <img height="32px" src="https://cdn.svgporn.com/logos/terminal.svg"> &ensp;
     <img height="32px" src="https://cdn.svgporn.com/logos/bash.svg"> &ensp;
     <img height="32px" src="https://cdn.svgporn.com/logos/asana.svg"> &ensp;
-    <code><img height="32px" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/excel.jpg"></code>  
+    <code><img height="30x" src="https://github.com/manvimadan12/manvimadan12/blob/master/images/excel.jpg"></code>  
 
 </div>
 
