@@ -41,8 +41,8 @@
 
 </div>
 <div  class='row' align="center"> 
-    <img height="32px" src="https://cdn.svgporn.com/logos/eclipse.svg"> &ensp;
-    <img height="32px" src="https://cdn.svgporn.com/logos/postman.svg"> &ensp;
+    <img height="28px" src="https://cdn.svgporn.com/logos/eclipse.svg"> &ensp;
+    <img height="28px" src="https://cdn.svgporn.com/logos/postman.svg"> &ensp;
     <img height="32px" src="https://cdn.svgporn.com/logos/git.svg"> &ensp;
     <img height="32px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> &ensp;
     <img height="32px" src="https://cdn.svgporn.com/logos/terminal.svg"> &ensp;
