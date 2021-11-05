@@ -13,11 +13,11 @@
  <div class='row' align="center">
     <!--<img height="32px" src="https://cdn.svgporn.com/logos/c.svg">-->
     <img height="32px" src="https://cdn.svgporn.com/logos/nodejs.svg"> &ensp;
-    <img height="32px" src="https://cdn.svgporn.com/logos/mysql.svg"> &ensp;
-    <img height="32px" src="https://cdn.svgporn.com/logos/postgresql.svg"> &ensp;
-    <img height="32px" src="https://cdn.svgporn.com/logos/heroku.svg"> &ensp;
     <img height="32px" src="https://cdn.svgporn.com/logos/java.svg"> &ensp;
-    <img height="32px" src="https://cdn.svgporn.com/logos/spring.svg">
+    <img height="32px" src="https://cdn.svgporn.com/logos/spring.svg"> &ensp;
+    <img height="32px" src="https://cdn.svgporn.com/logos/heroku.svg"> &ensp;
+    <img height="32px" src="https://cdn.svgporn.com/logos/mysql.svg"> &ensp;
+    <img height="32px" src="https://cdn.svgporn.com/logos/postgresql.svg">
 </div>
 <br>
 <div align="center">
