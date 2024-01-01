@@ -1,8 +1,7 @@
 <div>
     <a target="_blank" href="https://www.linkedin.com/in/jonathan-da-silva-4b61b1215/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"  Width="10%"></img></a>
-	<a target="_blank" href="mailto:Jonathandevlpj.gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" Width="8%"></img></a>   
+	<a target="_blank" href="mailto:jonathansilvadevjpldv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" Width="8%"></img></a>   
 </div>
-
 
 <diV style="display:flex;">
     <div style="margin-right: 3%">
@@ -67,4 +66,3 @@
     <img height="32px" src="https://cdn.svgporn.com/logos/asana.svg"> &ensp;
     <img height="30x" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"> 
 </div>
-
