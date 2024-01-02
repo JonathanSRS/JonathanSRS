@@ -45,14 +45,17 @@
 	      <tbody>
     </table>
 </div>
-<hr>
-<div  class='row' align="center"> 
-    <img height="28px" src="https://cdn.svgporn.com/logos/eclipse.svg"> &ensp;
-    <img height="28px" src="https://cdn.svgporn.com/logos/postman.svg"> &ensp;
-    <!--<img height="32px" src="https://cdn.svgporn.com/logos/git.svg"> &ensp;-->
-    <!--<img height="32px" src="https://img.icons8.com/color/000000/command-line.png"> &ensp;-->
-    <!--<img height="32px" src="https://cdn.svgporn.com/logos/bash.svg"> &ensp;-->
-    <img height="32px" src="https://cdn.svgporn.com/logos/asana.svg"> &ensp;
-    <img height="30x" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"> 
+<div align="center">
+<table>
+    <tbody>
+    	    <td><img height="28px" src="https://cdn.svgporn.com/logos/eclipse.svg"></td>
+    		<td><img height="28px" src="https://cdn.svgporn.com/logos/postman.svg"></td>
+    		<td><img height="28px" src="https://cdn.svgporn.com/logos/git.svg"></td>
+    		<td><img height="28px" src="https://cdn.svgporn.com/logos/asana.svg"></td>
+    		<td><img height="32px" src="https://cdn.svgporn.com/logos/jira.svg"></td>
+    		<td><img height="32px" src="https://img.icons8.com/color/000000/bash.png"></td>
+    		<td><img height="30x" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"></td>
+    </tbody>
+</table>
 </div>
 
