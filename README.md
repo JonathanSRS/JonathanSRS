@@ -12,7 +12,7 @@
         <span>* 👨‍💻 Programando em: Java, Python, Oracle DB</span>
         <br><span>* 💻 Estou Trabalhando com: Chatbots</span>
         <br><span>* 🎓 Cursando: Ciência de dados</span>
-        <br><span>* 💬 Gosto de conversar sobre: Esportes, filmes e livros.</span>
+        <br><span>* 💬 Gosto de conversar sobre: Esportes, filmes e livros</span>
         <br><span>* 😄 Favoritos: Banda, Racionais Mc's. Livro, Arte da Guerra.</span>
     </p>
     <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanSRS&&theme=dark&layout=compact">
